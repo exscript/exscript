@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exscript
 - 👀 I’m interested in Coding and Travelling.
-- 🌱 I’m currently learning JavaScript, NodeJS, ReactJS, VueJS.
+- 🌱 I’m currently learning JavaScript, NodeJS, NextJS
 - 💞️ I’m looking to collaborate with passionate people and organizations for greater good.
 - 📫 You know how to reach me :)
 
